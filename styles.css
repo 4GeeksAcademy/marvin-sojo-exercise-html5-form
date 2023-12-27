@@ -1,0 +1,16 @@
+body *{
+    font-family: 'Helvetica', sans-serif;
+}
+.warning{
+    background-color: rgb(241, 208, 214);
+    color: rgba(73, 5, 5, 0.616);
+}
+.footerTextarea{
+    font-size: small;
+}
+.fa-brands{
+    color: white;
+}
+label, .weAccept{
+    font-weight: bold;
+}
